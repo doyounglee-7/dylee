@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    padding: 20px;
+  }
+  
+  .calculator,
+  .graph {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  #plot {
+    width: 500px;
+    height: 300px;
+  }
